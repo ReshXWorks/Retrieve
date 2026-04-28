@@ -46,7 +46,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📄 AI Document Assistant")
+st.title("📄 Retrieve: AI Document Assistant")
 
 # 🔥 Sidebar Upload
 with st.sidebar:
