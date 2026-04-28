@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="AI Document Assistant", layout="wide")
+st.set_page_config(page_title="Retrieve: AI Document Assistant", layout="wide")
 
 # 🔥 SAFE SESSION INIT (important)
 st.session_state.setdefault("history", [])
